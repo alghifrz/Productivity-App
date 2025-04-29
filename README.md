@@ -17,7 +17,7 @@ A simple and beautifully designed productivity application built using **Flutter
 
 | Home Screen | Task Added | Color Picker |
 |-------------|-------------|--------------|
-| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) | ![Screenshot 3](assets/screenshot3.png) |
+| ![Screenshot 1](assets/hp1.png) | ![Screenshot 2](assets/hp2.png) | ![Screenshot 3](assets/hp9.png) |
 
 ## 🚀 Getting Started
 
