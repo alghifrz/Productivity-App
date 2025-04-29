@@ -1,16 +1,28 @@
-# productivity_app
+# 📝 Productivity App - Flutter
 
-A new Flutter project.
+A simple and beautifully designed productivity application built using **Flutter**, designed to help users manage daily tasks efficiently.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add, display, and manage your daily tasks
+- 📋 Todo list with checkbox for task completion
+- 📊 Live task completion percentage calculation
+- 🖌️ Customizable background color
+- 🎨 Choose from 6+ color options
+- 🧼 Swipe to delete with confirmation dialog
+- 🖼️ Background image support (customizable)
+- 🌈 Clean UI using **Poppins** font & Material Icons
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Home Screen | Task Added | Color Picker |
+|-------------|-------------|--------------|
+| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) | ![Screenshot 3](assets/screenshot3.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/productivity_app.git
+cd productivity_app
